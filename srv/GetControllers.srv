@@ -1,0 +1,4 @@
+string robot
+---
+string[] controllers
+string[] controller_types
