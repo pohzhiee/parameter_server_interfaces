@@ -21,6 +21,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GetAllJoints.srv"
+  "srv/GetAllPid.srv"
   "srv/GetControllerJoints.srv"
   "srv/GetControllerPid.srv"
   "srv/GetControllers.srv"

@@ -26,3 +26,8 @@
   ros1_service_name: 'GetRobots'
   ros2_package_name: 'parameter_server_interfaces'
   ros2_service_name: 'GetRobots'
+-
+  ros1_package_name: 'parameter_server_interfaces'
+  ros1_service_name: 'GetAllPid'
+  ros2_package_name: 'parameter_server_interfaces'
+  ros2_service_name: 'GetAllPid'
