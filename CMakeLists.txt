@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GetControllerPid.srv"
   "srv/GetControllers.srv"
   "srv/GetRobots.srv"
+  "srv/GetGymUpdateRate.srv"
 )
 
 # install(FILES mapping_rules.yaml DESTINATION share/${PROJECT_NAME})
